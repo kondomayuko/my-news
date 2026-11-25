@@ -6,7 +6,7 @@ function readLater() {
   try { return new Set(JSON.parse(localStorage.getItem(LATER_KEY) || "[]")); } catch { return new Set(); }
 }
 
-const state = { items: [], tab: "all", q: "", later: readLater(), scroll: {} };
+const state = { items: [], tab: "all", q: "", later: readLater(), scroll: {}, version: null };
 const $ = (id) => document.getElementById(id);
 
 function saveLater() {
@@ -45,7 +45,7 @@ function renderTabs() {
 }
 
 function switchTab(k) {
-  if (k === state.tab) return;
+  if (k === state.tab) { window.scrollTo({ top: 0, behavior: "smooth" }); return; }
   state.scroll[state.tab] = window.scrollY;
   state.tab = k;
   render();
@@ -85,16 +85,23 @@ async function load() {
   try {
     const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
     const db = await res.json();
+    const version = db.items.map((i) => i.id).join("|");
+    if (version === state.version) return;
+    const first = state.version === null;
+    state.version = version;
     state.items = db.items.slice().sort((a, b) => (b.date + b.addedAt).localeCompare(a.date + a.addedAt));
     if (db.updatedAt) {
       const u = new Date(db.updatedAt);
       $("updated").textContent = `更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
     }
     render();
+    if (!first) { state.scroll = {}; window.scrollTo(0, 0); }
   } catch (e) {
-    $("status").textContent = "ニュースを読み込めませんでした。";
+    if (state.version === null) $("status").textContent = "ニュースを読み込めませんでした。";
   }
 }
 
 $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+window.addEventListener("pageshow", (e) => { if (e.persisted) load(); });
 load();
