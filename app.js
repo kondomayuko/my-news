@@ -6,7 +6,7 @@ function readLater() {
   try { return new Set(JSON.parse(localStorage.getItem(LATER_KEY) || "[]")); } catch { return new Set(); }
 }
 
-const state = { items: [], tab: "all", q: "", later: readLater() };
+const state = { items: [], tab: "all", q: "", later: readLater(), scroll: {} };
 const $ = (id) => document.getElementById(id);
 
 function saveLater() {
@@ -40,8 +40,16 @@ function renderTabs() {
     : k === "later" ? state.items.filter((i) => state.later.has(i.id)).length
     : state.items.filter((i) => i.category === k).length;
   $("tabs").replaceChildren(...TABS.map(([k, label]) =>
-    el("button", { class: "tab", "aria-pressed": String(state.tab === k), onclick: () => { state.tab = k; render(); } },
+    el("button", { class: "tab", "aria-pressed": String(state.tab === k), onclick: () => switchTab(k) },
       label, el("span", { class: "n" }, String(count(k))))));
+}
+
+function switchTab(k) {
+  if (k === state.tab) return;
+  state.scroll[state.tab] = window.scrollY;
+  state.tab = k;
+  render();
+  window.scrollTo(0, state.scroll[k] || 0);
 }
 
 function card(it) {
