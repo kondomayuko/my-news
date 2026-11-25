@@ -1,6 +1,6 @@
 {
- "name": "My News",
- "short_name": "My News",
+ "name": "News KOKO",
+ "short_name": "News KOKO",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
