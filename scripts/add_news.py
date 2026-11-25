@@ -53,7 +53,9 @@ def main(path):
     db["items"].sort(key=lambda i: (i["date"], i["addedAt"]), reverse=True)
     db["updatedAt"] = now
     DATA.parent.mkdir(exist_ok=True)
-    DATA.write_text(json.dumps(db, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    tmp = DATA.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(db, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    tmp.replace(DATA)
     print(f"added {added}, skipped {len(new_items) - added}, total {len(db['items'])}")
 
 
