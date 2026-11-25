@@ -40,13 +40,14 @@ def main(path):
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     added = 0
     for item in new_items:
+        item = {k: str(item.get(k, "")).strip() for k in REQUIRED}
         validate(item)
         if item["url"] in seen:
             continue
         seen.add(item["url"])
         db["items"].append({
             "id": hashlib.sha1(item["url"].encode()).hexdigest()[:12],
-            **{k: item[k].strip() for k in REQUIRED},
+            **item,
             "addedAt": now,
         })
         added += 1
