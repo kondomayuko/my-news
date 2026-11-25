@@ -85,7 +85,7 @@ async function load() {
   try {
     const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
     const db = await res.json();
-    const version = `${db.updatedAt}|${db.items.length}`;
+    const version = db.items.map((i) => i.id).join("|");
     if (version === state.version) return;
     const first = state.version === null;
     state.version = version;
