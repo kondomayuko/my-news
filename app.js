@@ -2,10 +2,16 @@ const CATS = { ai: "AI", world: "世界", tech: "テック・サイエンス", e
 const TABS = [["all", "すべて"], ...Object.entries(CATS), ["later", "★ あとで読む"]];
 const LATER_KEY = "mynews.later";
 
-const state = { items: [], tab: "all", q: "", later: new Set(JSON.parse(localStorage.getItem(LATER_KEY) || "[]")) };
+function readLater() {
+  try { return new Set(JSON.parse(localStorage.getItem(LATER_KEY) || "[]")); } catch { return new Set(); }
+}
+
+const state = { items: [], tab: "all", q: "", later: readLater() };
 const $ = (id) => document.getElementById(id);
 
-function saveLater() { localStorage.setItem(LATER_KEY, JSON.stringify([...state.later])); }
+function saveLater() {
+  try { localStorage.setItem(LATER_KEY, JSON.stringify([...state.later])); } catch {}
+}
 
 function fmtDay(d) {
   const dt = new Date(d + "T00:00:00");
