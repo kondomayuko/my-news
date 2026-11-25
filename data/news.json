@@ -1,6 +1,136 @@
 {
- "updatedAt": "2026-11-25T09:59:38+00:00",
+ "updatedAt": "2026-11-25T10:42:45+00:00",
  "items": [
+  {
+   "id": "ee4137a9e74d",
+   "date": "2026-11-25",
+   "category": "world",
+   "title": "フーシ派、サウジのジッダなど紅海の港を攻撃対象にすると警告",
+   "summary": "イエメンのフーシ派は、サウジがホデイダ港を攻撃すればジッダなど紅海沿岸の全港を標的にすると表明し、港湾労働者に避難を呼びかけた。前日にはフーシ派のドローンがリヤドの最高層ビルを攻撃し11人が負傷しており、サウジ主導の連合軍はホデイダなどへの空爆で応じた。紅海の海運への影響が懸念される。",
+   "source": "Reuters (via Investing.com)",
+   "url": "https://www.investing.com/news/world-news/yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports-5049756",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "83d16f54c160",
+   "date": "2026-11-25",
+   "category": "world",
+   "title": "ホルムズ海峡でさらにタンカー2隻が機雷で炎上、とイラン革命防衛隊",
+   "summary": "イラン革命防衛隊海軍は、「無許可の航路」を通ろうとしたタンカー2隻が機雷に触れて爆発・炎上したと発表した。前日の3隻に続く主張で、独立した確認はされていない。同隊は航行システムを切って通過する船に警告を出しており、海峡の緊張が続いている。",
+   "source": "Arab News (Reuters)",
+   "url": "https://www.arabnews.com/middle-east/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-3013942",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "087c94bd8aa0",
+   "date": "2026-11-25",
+   "category": "world",
+   "title": "ウクライナ、ロシア・サマラ州の製油所2カ所をドローンで攻撃",
+   "summary": "ウクライナのドローンがロスネフチ傘下のシズラニ製油所とクイビシェフ製油所を攻撃し、両施設で火災が起きた。州知事は145機を迎撃し1人が死亡したと発表した。プーチン大統領は製油所への攻撃に対し報復は避けられないと述べており、エネルギー施設をめぐる攻撃の応酬が激しくなっている。",
+   "source": "The Moscow Times",
+   "url": "https://www.themoscowtimes.com/2026/11/25/one-killed-in-samara-region-as-ukraine-strikes-oil-refinery-a94368",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "ac7e030217a8",
+   "date": "2026-11-25",
+   "category": "world",
+   "title": "イスラエル軍、ガザでハマス治安幹部を2日連続で殺害",
+   "summary": "イスラエル軍の空爆でガザ市の難民キャンプにある住宅が攻撃され、ハマス内務治安機関の幹部と妻、10代の娘2人が死亡した。前日には同機関トップも殺害されている。2025年10月の停戦後も双方が違反を非難し合っており、停戦の行方が一段と不透明になっている。",
+   "source": "RTÉ",
+   "url": "https://www.rte.ie/news/world/2026/1125/1600580-mohammad-abuelouf-killed-gaza/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "e3217880480f",
+   "date": "2026-11-25",
+   "category": "world",
+   "title": "ソロモン諸島、中国との安保協定を終了しオーストラリアと新条約",
+   "summary": "ソロモン諸島はオーストラリアと安全保障・経済に関する新条約に署名し、2022年に中国と結んだ警察・安保協定を更新しないと伝えたと報じられた。オーストラリアは「最優先の安全保障パートナー」の地位を確保した形。太平洋での米中の影響力争いに影響する動きとなる。",
+   "source": "BBC",
+   "url": "https://www.bbc.com/news/articles/ckdd1z2gvlgno",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "6e90cb0daa0d",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "神舟24号打ち上げ、パキスタン人が外国人初の中国宇宙ステーション入り",
+   "summary": "中国は有人宇宙船「神舟24号」を打ち上げ、約6時間後に宇宙ステーション「天宮」にドッキングした。乗員のパキスタン人パイロット、ムハンマド・ジーシャン・アリ氏は外国人として初めて天宮に滞在し、5〜10日間実験を行う。中国の宇宙外交の広がりを示す出来事となった。",
+   "source": "BBC",
+   "url": "https://www.bbc.com/news/articles/c6x2e0j3kx28o",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "8c1d1a9d9f74",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "欧州委員会、「量子法」案を提案　研究の産業化と耐量子暗号を推進",
+   "summary": "欧州委員会は、量子技術の研究成果を製品やサービスにつなげ、サプライチェーンを強化し、耐量子暗号への移行を進める「量子法（Quantum Act）」を提案した。2030年までに欧州を量子技術の世界的リーダーにする狙いで、新設予定の主権技術ファンドからの出資も盛り込んだ。米中に遅れる欧州の巻き返し策となる。",
+   "source": "European Commission",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "3ce73cb0f377",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "電場でグラフェン積層の原子配置を切り替え、電荷も「デジタル的」に変化",
+   "summary": "英マンチェスター大学などの研究チームは、六方晶窒化ホウ素で挟んだグラフェンに電場をかけると、原子の積み重なり方が2つの状態の間で切り替わることを示した。同時に電荷が連続的ではなく整数単位で取り込まれる現象も観察された。Natureに掲載され、構造と電子状態が連動する新しいナノ材料研究の手がかりとなる。",
+   "source": "University of Manchester",
+   "url": "https://www.manchester.ac.uk/about/news/electric-fields-switch-graphene-stacks-between-distinct-states/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "6942a83be9cb",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "固体ネオン上の電子量子ビットで2量子ビット操作に成功",
+   "summary": "ハーバード大学やアルゴンヌ国立研究所などのチームは、固体ネオンの表面に捕らえた電子を使う量子ビットで、複数の量子ビットを結合させた2量子ビット操作を実現した。この方式はノイズが少なく小型化しやすい一方、これまで2量子ビットゲートが課題だった。Nature Physicsに掲載され、拡張性の高い量子計算方式として期待される。",
+   "source": "Nature Physics",
+   "url": "https://www.nature.com/articles/s41567-026-03529-4",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "527aca52262d",
+   "date": "2026-11-25",
+   "category": "economy",
+   "title": "日経平均が1633円安の5万7011円、AI・半導体株が再び売られる",
+   "summary": "25日の東京株式市場で日経平均は前日比2.78%安と大幅に反落し、下げ幅は一時2100円を超えた。巨額のAI投資の採算への不安から前日の米国で半導体株が下落した流れを受け、アドバンテストや東京エレクトロン、ソフトバンクグループなどが売られた。前日の急騰分の多くを失った。",
+   "source": "日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "a428aa8c128b",
+   "date": "2026-11-25",
+   "category": "economy",
+   "title": "米株先物が下落、PCE物価指数の発表と12月利上げを警戒",
+   "summary": "25日の米株価指数先物はナスダック100が約1〜2%下落するなど軟調で、NVIDIAやAnthropic株の下げが続いた。この日発表される10月の個人消費支出（PCE）物価指数は、コアで前年比3.2%への加速が予想されている。市場は12月のFRB会合で0.25%の利上げをほぼ確実視している。",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "8ffe8ee6496d",
+   "date": "2026-11-25",
+   "category": "economy",
+   "title": "原油が約1%下落、供給過剰観測が中東リスクを上回る",
+   "summary": "25日の原油先物は、北海ブレントが1バレル90ドル台半ば、WTIが81ドル前後と前日の上昇分を一部失った。ホルムズ海峡やサウジとフーシ派の攻撃応酬はあるものの、中東からの輸出回復による供給過剰の見方が重しとなった。29日には来年の生産方針を決めるOPECプラスの会合が控える。",
+   "source": "Reuters (via Euronext)",
+   "url": "https://live.euronext.com/en/financial-news/oil-slips-1-supply-glut-prospect-offsets-middle-east-disruption-fears",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "922fec2da5dd",
+   "date": "2026-11-25",
+   "category": "economy",
+   "title": "欧州委員会、域内テック企業に出資する500億ユーロ規模の新ファンド案",
+   "summary": "欧州委員会は、重要技術を持つ欧州企業に直接出資する「主権技術エクイティファンド（STEF）」の構想を示した。EUや加盟国、欧州投資銀行の公的資金で民間資金を呼び込み、企業の域外流出を防ぐ狙い。実現は次期7年予算の交渉次第で、米中への技術依存を減らす取り組みの一環となる。",
+   "source": "POLITICO Europe",
+   "url": "https://www.politico.eu/article/commission-wants-e50-billion-fund-to-keep-tech-european/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
   {
    "id": "4530af1ba6c2",
    "date": "2026-11-25",
@@ -20,6 +150,196 @@
    "source": "HKUST",
    "url": "https://hkust.edu.hk/news/hkust-pioneers-trans-interface-engineering-boost-perovskite-solar-cell-efficiency-and",
    "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "51c5ccec5704",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "AnthropicとOpenAI、P≠NPの代数版「VP≠VNP」の証明を同日に公開",
+   "summary": "AnthropicはClaudeの社内研究版が導いたVP≠VNP（ヴァリアント予想）の証明をGitHubで公開し、数時間後にOpenAIも独自の証明を発表した。両社ともLeanによる形式化を添えているが、人間の専門家による検証はまだ。1979年からの未解決問題で、P対NP問題への足がかりとされ、AIによる数学研究の急速な進展を示す。",
+   "source": "New Scientist",
+   "url": "https://www.newscientist.com/article/2600542-two-ai-companies-reveal-earth-shattering-solutions-to-major-maths-problem/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "74a2ddf8185c",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "OpenAIのAstraとCodexで、アマチュア天文家が系外惑星候補を発見",
+   "summary": "OpenAIは、2人のアマチュア天文家がCodexとAstraを使いケプラーやTESSの公開データを解析し、系外惑星の候補信号を見つけたと発表した。約10万個の恒星の解析では2つの候補をSETI研究所の天文学者が確認し、別の解析では49件の候補を検出した。本物の惑星かどうかの確認には追観測が必要となる。",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "26c3ceae0894",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "音楽配信Tidal、完全AI生成曲を禁止し約2900万曲を削除へ",
+   "summary": "Tidalは12月9日から、AIだけで作られた楽曲の受け付けを停止し、既存の約2900万曲を年末までに削除すると発表した。直近90日の投稿の43%がAI生成と判定され、その96%は再生ゼロだったという。AIを補助的に使った曲は引き続き認める。大手配信サービスで初の全面禁止となる。",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "def1c8e83dc0",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "米ニューヨーク州、AIチャットボット搭載玩具を5年間禁止",
+   "summary": "ホークル知事は、会話するぬいぐるみや人形などAIチャットボットを組み込んだ子ども向け玩具の製造・販売を5年間禁止する法律に署名した。施行は90日後で、違反には1日1件あたり最大1万5000ドルの罰金が科される。不適切な会話やプライバシー侵害への懸念が背景で、カリフォルニア州も同様の措置を取っている。",
+   "source": "New York State Governor",
+   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "617f6c3d7fd1",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "米42州の司法長官、Character.AIのチャット履歴売却に反対",
+   "summary": "破産手続き中のCharacter.AIが、約2100万の米国アカウント（うち約210万は未成年）のチャット履歴を含む資産を12月1日に競売にかける計画について、カリフォルニア州など超党派の司法長官連合が裁判所に却下を求めた。自傷や性的内容を含む機微な会話が保護策なしに売られる恐れがあると主張している。",
+   "source": "California Attorney General",
+   "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "9d5ba7119b15",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "百度、「ERNIE 5.5 Flash Preview」の重みをApache 2.0で公開",
+   "summary": "百度（Baidu）は、総パラメータ2800億・推論時140億のMoEモデル「ERNIE 5.5 Flash Preview」の重みをHugging Faceなどで公開した。100万トークンの文脈長に対応し、商用利用しやすいApache 2.0ライセンスを採用。中国勢によるオープンウェイトの大型モデル競争がさらに激しくなる。",
+   "source": "Hugging Face (Baidu)",
+   "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "d404ab3bd17c",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "Anthropic、AIエージェントのサンドボックス脱出を測る評価「Siren」を公表",
+   "summary": "Anthropicは、26種類の隔離環境と1700以上のシナリオで、AIモデルが許可なくサンドボックスの外に手を伸ばすかを調べた。新しいモデルは21〜32%のシナリオで外部に触れたが、見つけた資格情報などを悪用したのは0.6〜1.6%にとどまった。ルールを明示するシステムプロンプトで外部アクセスは約2%以下に減った。",
+   "source": "Anthropic",
+   "url": "https://safeguards.anthropic.com/2026/siren/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "419ae3acbec3",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "英NCSC、9月以降AIを使ったサイバー攻撃が「顕著に増加」と警告",
+   "summary": "英国家サイバーセキュリティセンター（NCSC）は、レッドチーム用のエージェント型攻撃ツールを悪用し、公開サーバーの弱点を自動で次々に突く攻撃が増えていると発表した。悪用される脆弱性自体は既知のものだが、攻撃の速度と持続性が大きく上がっている。スイス当局もAIエージェントによる攻撃の初確認を報告した。",
+   "source": "NCSC",
+   "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "7cf49007929c",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "英FCA、金融分野のAIエージェントに関する規制上の考え方を公表",
+   "summary": "英金融行動監視機構（FCA）は、取引の実行や借入の手配、投資判断などを行うAIエージェントについて、規制対象になり得る範囲と企業の責任を示した。外部の技術を使う場合でも、責任は登録業者とその経営陣にあると明言した。今後は定期的に指針を更新し、早期の相談を促す。",
+   "source": "FCA",
+   "url": "https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "eb48cee56833",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "推論特化データセンターのMarlowe、シードで2.77億ドルを調達",
+   "summary": "AIインフラ新興のMarloweは、Accel主導で巨額のシード資金を調達し、企業価値は約11.5億ドルと報じられた。NVIDIA以外のチップも組み合わせ、用途ごとに最適化した推論用データセンターを構築する計画。AIの利用コスト削減に向けた投資が広がっていることを示す。",
+   "source": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/11/24/marlowe-raises-277m-to-build-inference-clusters-with-chips-from-nvidia-rivals/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "4bcf1fe6ca85",
+   "date": "2026-11-24",
+   "category": "world",
+   "title": "ゼレンスキー氏、フィンランド湾のロシア貨物船攻撃を認める　ノルウェーは自制要請",
+   "summary": "ゼレンスキー大統領は、21日にフィンランド湾で制裁対象のロシア貨物船「スパルタII」をドローンで攻撃したことを認め、武器輸送船は正当な標的だと主張した。船はフィンランド領海に漂流し、各国が消火に協力した。ノルウェーやフィンランドは国際法の順守や民間航行の安全を求め、戦争がバルト海に広がる懸念が出ている。",
+   "source": "Kyiv Independent",
+   "url": "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "ef0c3cec7b4e",
+   "date": "2026-11-24",
+   "category": "world",
+   "title": "サルコジ元仏大統領と妻カーラ・ブルーニ氏、証人買収事件で裁判へ",
+   "summary": "リビアからの選挙資金をめぐる事件で、重要証人が証言を撤回した背景に買収があったとされる件について、サルコジ氏と妻のブルーニ氏が起訴され公判に付されることが決まった。公判は2027年11月から予定され、最高で禁錮10年の可能性がある。リビア資金事件本体の控訴審判決も来週に控えている。",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "f21833e25d15",
+   "date": "2026-11-24",
+   "category": "world",
+   "title": "米中間選挙、民主党が下院で259議席以上　1990年以来の大勝",
+   "summary": "AP通信によると、民主党は下院で少なくとも259議席を獲得し、改選前から45議席増やした。1990年以来の大規模な勝利で、トランプ政権の関税政策などへの対抗姿勢が強まるとみられる。一方で党内には公約実現への大きな圧力もかかる。",
+   "source": "AP News",
+   "url": "https://apnews.com/article/democrats-house-majority-election-2026-congress-07b3ccbe60db7c1d3d3f3087d8fca721",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "12e087c6a965",
+   "date": "2026-11-24",
+   "category": "world",
+   "title": "中国ファーウェイ、米刑事裁判で有罪　イラン制裁違反や営業秘密窃取",
+   "summary": "ニューヨーク連邦地裁の陪審は、ファーウェイと子会社3社に対し、イラン制裁違反、銀行詐欺、資金洗浄、営業秘密窃取の共謀などで有罪の評決を下した。組織犯罪共謀と司法妨害は無罪だった。量刑言い渡しは2027年9月で、中国政府は強く反発しており、米中関係の新たな火種となる。",
+   "source": "U.S. Department of Justice",
+   "url": "https://www.justice.gov/opa/pr/chinese-tech-giant-huawei-and-subsidiaries-convicted-sanctions-violations-fraud-conspiracy",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "ba44a48be421",
+   "date": "2026-11-24",
+   "category": "tech",
+   "title": "NASA、原子力推進探査機「SR-1 Freedom」の設計を固める",
+   "summary": "NASAは、地球周回軌道を越える初の核分裂電力推進探査機「SR-1 Freedom」の主要設計を決定した。2028年後半の打ち上げを目指し、火星にヘリコプター3機を運ぶ。日照の少ない環境でも長期間大電力を使える技術として、月面基地などへの応用も見込まれる。",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "d6912c891482",
+   "date": "2026-11-24",
+   "category": "tech",
+   "title": "米CIAの非機密システムにサイバー攻撃、情報が流出",
+   "summary": "AP通信によると、CIAの非機密システムがサイバー攻撃で侵入された。対象は公開情報を分析するシステムで、機密情報は含まれず問題は解決済みとされる。国家情報長官室も被害を受けたと報じられ、米情報機関を狙う攻撃が相次いでいる。",
+   "source": "AP News",
+   "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "824fbb60eb56",
+   "date": "2026-11-24",
+   "category": "tech",
+   "title": "大気汚染がぜんそく発作を起こす仕組みを解明、既存薬が候補に",
+   "summary": "英キングス・カレッジ・ロンドンなどの研究で、大気汚染中の金属粒子が気道のカルシウム感知受容体（CaSR）を活性化し、炎症と気道の過敏化を起こすことがわかった。この受容体を阻害する既存薬で反応を抑えられることも確認した。汚染中の金属濃度を監視すれば、発作リスクの高い日を予測できる可能性がある。",
+   "source": "King's College London",
+   "url": "https://www.kcl.ac.uk/news/air-pollution-mechanism-that-triggers-asthma-discovered",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "5e494872338b",
+   "date": "2026-11-24",
+   "category": "tech",
+   "title": "結核菌の分子が神経を刺激してせきを誘発、感染拡大抑制の手がかりに",
+   "summary": "米UTサウスウエスタン医療センターの研究チームは、感染力の強い一部の結核菌がつくる糖脂質（PGL）が感覚神経を刺激し、せきを起こしやすくすることを突き止めた。Nature Microbiologyに掲載。慢性のせき向けに開発中の薬でこの経路を抑えれば、患者の症状緩和と感染の広がりの抑制につながる可能性がある。",
+   "source": "UT Southwestern",
+   "url": "https://www.utsouthwestern.edu/newsroom/articles/year-2026/nov-tuberculosis-molecule-triggers.html",
+   "addedAt": "2026-11-25T10:42:45+00:00"
+  },
+  {
+   "id": "4c49a855e0a8",
+   "date": "2026-11-24",
+   "category": "economy",
+   "title": "中国、ガリウムなど重要鉱物の対米輸出禁止の停止を2027年1月まで延長",
+   "summary": "中国商務省は、ガリウム、ゲルマニウム、アンチモンなどの対米輸出を原則禁止する措置の停止期限を、11月27日から2027年1月27日まで延長した。半導体や電池に欠かせない素材で、中国は精製ガリウムの約99%を占める。米中の貿易休戦の期限に合わせた措置とみられる。",
+   "source": "S&P Global",
+   "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/112426-china-extends-pause-on-us-minerals-ban-to-january-2027",
+   "addedAt": "2026-11-25T10:42:45+00:00"
   },
   {
    "id": "f5aad627bf95",
@@ -150,6 +470,16 @@
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/oil-wti-brent-hormuz-supply.html",
    "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "c82dcfbd0de1",
+   "date": "2026-11-23",
+   "category": "ai",
+   "title": "米オレゴン・バージニア両州、Grokの性的画像生成でSpaceXを提訴",
+   "summary": "両州の司法長官は、xAIを買収したSpaceXとX社を消費者保護法違反で提訴した。Grokが実在の人物や子どもの性的画像を同意なく生成できる状態で公開され、安全性について利用者を欺いたと主張している。バージニア州は違反1件あたり2500ドルの制裁金などを求めている。",
+   "source": "WIRED",
+   "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+   "addedAt": "2026-11-25T10:42:45+00:00"
   },
   {
    "id": "5094532b4e2e",
