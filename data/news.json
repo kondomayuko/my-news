@@ -1,0 +1,235 @@
+{
+ "updatedAt": "2026-11-25T09:59:38+00:00",
+ "items": [
+  {
+   "id": "4530af1ba6c2",
+   "date": "2026-11-25",
+   "category": "ai",
+   "title": "OpenAI、GPT-6系モデルがタンパク質設計をこなせると発表",
+   "summary": "OpenAIは、GPT-6.2が専用のタンパク質AIを使わずにコードを書いて小型タンパク質の立体構造を設計できたと発表。研究パートナーの実験では5つの標的すべてで結合の兆候が確認された。ただし配列の生成や候補選びには専用モデルを併用しており、完全な構造予測は弱点として残る。",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "b44217544b4e",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "香港科技大、ペロブスカイト太陽電池の層を「縫い合わせて」長寿命化",
+   "summary": "層と層の間を縦に貫く分子の結び目でつなぐ新技術「TIE」を開発し、Nature Photonicsの表紙を飾った。変換効率は27.04%で、50以上の試作品の92%が1,400時間以上安定して動いた。弱点だった耐久性を改善し、実用化に近づく成果としている。",
+   "source": "HKUST",
+   "url": "https://hkust.edu.hk/news/hkust-pioneers-trans-interface-engineering-boost-perovskite-solar-cell-efficiency-and",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "f5aad627bf95",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "Axios報道：OpenAIとAnthropicの社員、未公開モデルは「強すぎて公開できない」と懸念",
+   "summary": "20人以上の関係者によると、両社の社内モデルは公開版よりはるかに高性能で、安全に制御できるか社内で議論が起きている。今後の最先端モデルを社内利用だけにとどめるか、そもそも訓練を続けるかも論点に。両社は、必要なら公開を遅らせる姿勢を示した。",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "24384649709a",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "Meta、個人向けAIエージェント「Muse」を英国で開始",
+   "summary": "Museはアプリ単体またはWhatsApp内で使え、メール送信、旅行予約、買い物などを代わりに進める。購入や送信の前には必ず本人の許可を求める仕組み。英国の競争・市場庁（CMA）は同日、AIエージェントにも消費者保護法が適用されるとの声明を出した。",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "18e10cef1dbd",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "Google DeepMind、新ベンチマーク「Humanity's First Exam」をKaggleで公開",
+   "summary": "難問ではなく、人ならほぼ間違えない簡単な問題（数を数える、色を答える、簡単な計算など）を、AIが毎回安定して正解できるかを測る。544問を4問ずつの言い換えセットにまとめ、全問正解したセットだけを合格とする。",
+   "source": "Google",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "9088e5c5cb44",
+   "date": "2026-11-24",
+   "category": "ai",
+   "title": "Nature：ClaudeやChatGPTがタンパク質研究で専用AIに迫る",
+   "summary": "Natureによると、AnthropicのClaudeの最新版が、細菌タンパク質の配列予測で専用の「タンパク質言語モデル」を上回ったという報告が研究者の間で話題に。OpenAIのGPT-6.2による設計でも約11%が実験で標的に結合した。一方で、学習データの丸暗記ではないかと疑う声もある。",
+   "source": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-03836-z",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "9cdc848fd7c6",
+   "date": "2026-11-24",
+   "category": "world",
+   "title": "ホルムズ海峡で石油タンカー3隻が機雷で炎上、とイラン革命防衛隊",
+   "summary": "イラン革命防衛隊の海軍は、3隻のタンカーが海峡で機雷に触れ、火災が起きたと発表。米軍の上空警戒でも防げなかったと主張し、「許可のない航路」を通らないよう警告した。イランは7月、米国の攻撃再開を受けて海峡の封鎖を宣言している。",
+   "source": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "4d6fb6e49733",
+   "date": "2026-11-24",
+   "category": "world",
+   "title": "スーダン：RSFが首都ハルツームをドローン攻撃、電力網は崩壊寸前",
+   "summary": "スーダン軍は、準軍事組織RSF（即応支援部隊）が首都に向けて放ったドローンを迎撃したと発表した。これに先立つ攻撃では、空港や国連施設などが被害を受け、少なくとも4人が死亡したと伝えられる。発電所への攻撃が続き、国の電力網は崩壊寸前とされる。",
+   "source": "Democracy Now!",
+   "url": "https://www.democracynow.org/2026/11/24/headlines",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "ca98010854b0",
+   "date": "2026-11-24",
+   "category": "tech",
+   "title": "Microsoft、24時間の大規模障害を受けて社内に「コードレッド」",
+   "summary": "ロイターが入手した社内メモによると、11月12〜13日にOutlook、Teams、Copilotなどが止まった障害を受け、最優先の改善体制を敷いた。原因は7月に入り込んだWindowsの不具合。今後は世界規模の障害を1時間以内に解決することを目標にし、原因の診断にAIエージェントも使う。",
+   "source": "Reuters（Investing.com）",
+   "url": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-declares-code-red-after-historic-outage-internal-memos-show-5048702",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "8494330d9ac7",
+   "date": "2026-11-24",
+   "category": "tech",
+   "title": "小児がん「ユーイング肉腫」、薬が効かないとされた原因タンパク質を間接的に分解",
+   "summary": "ペンシルベニア州立大の研究チームは、がんを引き起こす融合タンパク質を安定させている酵素CK2を薬で抑え、タンパク質を分解させることに成功した。マウスでは腫瘍の成長が遅れ、生存期間が延びた。すでに27病院で第1相の臨床試験が始まっている。",
+   "source": "Penn State",
+   "url": "https://www.psu.edu/news/research/story/molecular-back-door-destroys-undruggable-protein-driving-rare-childhood-cancer",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "ddc87dd1923a",
+   "date": "2026-11-24",
+   "category": "economy",
+   "title": "日経平均が3.91%高の5万8644円、NVIDIA関連の買いが広がる",
+   "summary": "米国でのNVIDIA急騰を受けて、東京市場でもAI・半導体株が買われた。上げ幅は一時2800円を超えた。アドバンテストは12%、東京エレクトロンは8%近く上がった。",
+   "source": "日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOFL244LH0U6A121C2000000/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "29c5402b57fd",
+   "date": "2026-11-24",
+   "category": "economy",
+   "title": "米国株：前日の急騰から一転、ハイテク株が下落　Anthropic株は公開価格割れ",
+   "summary": "ナスダックは1.5%安、S&P500は0.5%安。ダウは0.9%高だった。NVIDIAは6%下げ、半導体株のETFも8%下落した。Anthropic株は6.5%安の約82ドルで、公開価格の83ドルを下回った。",
+   "source": "Investopedia",
+   "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "cf0c486274fa",
+   "date": "2026-11-24",
+   "category": "economy",
+   "title": "トランプ政権、中国・欧州などに新たな関税を準備",
+   "summary": "3月に始めた「過剰生産」調査の結果をもとに、主要貿易相手16か国・地域を対象に追加関税を課す見通し。2月に連邦最高裁が無効とした関税の一部を置き換える狙いもある。中間選挙での民主党大勝の後でも、通商政策を押し進める姿勢を示している。",
+   "source": "Axios",
+   "url": "https://www.axios.com/economy/2026/11/24",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "9a47016f8f42",
+   "date": "2026-11-24",
+   "category": "economy",
+   "title": "仏サノフィ、米製薬インスメッドを410億ドルで買収",
+   "summary": "1株175ドルの現金買収で、サノフィにとっては2004年のアベンティス合併以来の大型案件。主力薬デュピクセントの特許が2031年に切れるのに備え、気管支拡張症の薬ブリンスプリなど呼吸器分野の薬を手に入れる。",
+   "source": "Sanofi",
+   "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "ee89c292b0b9",
+   "date": "2026-11-24",
+   "category": "economy",
+   "title": "原油が反発、ホルムズ海峡での船舶攻撃を警戒",
+   "summary": "北海ブレントは2.03ドル高の1バレル91.40ドル、WTIは82.05ドルで取引を終えた。一時は8月以来の安値まで下がっていた。一方、世界全体では供給過剰との見方が根強く、上値は重い。",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/oil-wti-brent-hormuz-supply.html",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "5094532b4e2e",
+   "date": "2026-11-23",
+   "category": "ai",
+   "title": "Z.ai、層を繰り返し使う新構造のフラッグシップ「GLM-5.4」を公開",
+   "summary": "中国のZ.ai（Zhipu AI）は、同じ28層を2回通す「Loop Transformer」を採用したGLM-5.4を発表。パラメータを増やさずに推論を深め、2〜3兆パラメータ級に並ぶ性能をうたう。まずGLM Coding Plan利用者向けに提供し、APIは安全評価の完了後に公開予定。",
+   "source": "Z.ai",
+   "url": "https://z.ai/blog/glm-5.4",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "81eb5e24945a",
+   "date": "2026-11-23",
+   "category": "tech",
+   "title": "CrowdStrike、Zscalerを約439億ドルで買収へ",
+   "summary": "全額株式交換で、Zscaler株1株にCrowdStrike株1.135株を割り当てる。CrowdStrikeはネットワークセキュリティ分野に参入し、AIエージェントの通信も含めて守る「AI時代のゼロトラスト」を掲げる。合算の年間経常収益は100億ドル超になる見込み。",
+   "source": "CrowdStrike",
+   "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "f7c23c9fb216",
+   "date": "2026-11-23",
+   "category": "ai",
+   "title": "顧客対応AIのSierra、企業価値300億ドルで17.5億ドルを調達",
+   "summary": "Bret Taylor氏らが率いるSierraは、GreenoaksとLightspeed主導のシリーズFで17.5億ドルを調達。評価額は5月の約158億ドルからほぼ倍増した。年間経常収益は4億ドルを超え、Fortune 50の約半数が顧客だという。",
+   "source": "Sierra",
+   "url": "https://sierra.ai/blog/series-f-30b",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "62e1dca30fd6",
+   "date": "2026-11-23",
+   "category": "world",
+   "title": "国連安保理でロシアとウクライナが黒海の船舶攻撃をめぐり非難の応酬",
+   "summary": "ロシアは穀物合意の復活を拒否し、ウクライナ軍が7月以降に200隻以上の商船を攻撃したと主張。ゼレンスキー大統領は、ロシアが新たな攻撃を準備しているとして、各国に防空ミサイルの追加供与を求めた。",
+   "source": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240#black-sea",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "9dddeb89e408",
+   "date": "2026-11-23",
+   "category": "tech",
+   "title": "Google DeepMind、AIエージェントのチームで量子アルゴリズムを高速化",
+   "summary": "Gemini 4のエージェントを複数チームに分けて改良案を競わせ、正しさは定理証明ツールLeanで数学的に確かめた。核融合の計算に使う回路はコストが11.8分の1になり、医薬品の代謝に関わる酵素のシミュレーションも2.5倍効率化した。使ったライブラリはオープンソースで公開。",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "028d8e8391e0",
+   "date": "2026-11-23",
+   "category": "economy",
+   "title": "NVIDIA、ジェンスン・ファン氏をCEOに復帰させる",
+   "summary": "取締役会が全会一致で決めた。ファン氏は不倫問題で辞任していたが、わずか数日前に復帰を拒んだ取締役会が一転した。ロイターによると、トランプ大統領の働きかけがあったという。発表当日、NVIDIA株は31%急騰した。統治の独立性を疑問視する声も出ている。",
+   "source": "NVIDIA",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "e2b6407cfa68",
+   "date": "2026-11-18",
+   "category": "ai",
+   "title": "Google、新モデル「Gemini 4 Neon」を公開",
+   "summary": "HydrogenとCarbonの間に位置するモデルで、コーディングや知的作業を速く最後までこなすことを狙う。100万トークンの文脈に対応し、料金は入力100万トークンあたり3ドル、出力15ドル。Gemini APIやGeminiアプリの有料プランで順次提供。",
+   "source": "Google",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  },
+  {
+   "id": "909b75797cd1",
+   "date": "2026-11-18",
+   "category": "ai",
+   "title": "Anthropic、IPO価格を1株83ドルに決定　史上最大の上場に",
+   "summary": "Anthropicは約9.8億株を1株83ドルで売り出し、11月19日にNasdaqでティッカー「ANT」として取引を始めた。AP通信によると調達額は約810億ドル、企業価値は約1.5兆ドルで、過去最大のIPOとなった。",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "addedAt": "2026-11-25T09:59:38+00:00"
+  }
+ ]
+}
