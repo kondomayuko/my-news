@@ -40,7 +40,7 @@ def main(path):
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     added = 0
     for item in new_items:
-        item = {k: str(item.get(k, "")).strip() for k in REQUIRED}
+        item = {k: v.strip() if isinstance(v := item.get(k), str) else "" for k in REQUIRED}
         validate(item)
         if item["url"] in seen:
             continue
