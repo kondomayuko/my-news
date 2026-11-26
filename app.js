@@ -14,6 +14,11 @@ function saveLater() {
   try { localStorage.setItem(LATER_KEY, JSON.stringify([...state.later])); } catch {}
 }
 
+function localDay(iso) {
+  const d = new Date(iso);
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
 function fmtDay(d) {
   const dt = new Date(d + "T00:00:00");
   return `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${"日月火水木金土"[dt.getDay()]}）`;
@@ -51,6 +56,7 @@ function switchTab(k) {
   state.tab = k;
   render();
   window.scrollTo(0, state.scroll[k] || 0);
+  document.querySelector('.tab[aria-pressed="true"]')?.scrollIntoView({ inline: "nearest", block: "nearest" });
 }
 
 function card(it) {
@@ -71,7 +77,7 @@ function card(it) {
 
 function cutoffDate() {
   if (!state.items.length) return "";
-  const d = new Date(state.items[0].date + "T00:00:00Z");
+  const d = new Date(state.items[0].day + "T00:00:00Z");
   d.setUTCDate(d.getUTCDate() - (state.days - 1));
   return d.toISOString().slice(0, 10);
 }
@@ -82,14 +88,14 @@ function render() {
   let hidden = 0;
   if (!state.q && state.tab !== "later") {
     const cut = cutoffDate();
-    const recent = shown.filter((it) => it.date >= cut);
+    const recent = shown.filter((it) => it.day >= cut);
     hidden = shown.length - recent.length;
     shown = recent;
   }
   const list = [];
   let day = null;
   for (const it of shown) {
-    if (it.date !== day) { day = it.date; list.push(el("h2", { class: "day" }, fmtDay(day))); }
+    if (it.day !== day) { day = it.day; list.push(el("h2", { class: "day" }, `${fmtDay(day)}に追加`)); }
     list.push(card(it));
   }
   if (hidden) {
@@ -108,7 +114,8 @@ async function load() {
     if (version === state.version) return;
     const first = state.version === null;
     state.version = version;
-    state.items = db.items.slice().sort((a, b) => (b.date + b.addedAt).localeCompare(a.date + a.addedAt));
+    state.items = db.items.map((i) => ({ ...i, day: localDay(i.addedAt) }))
+      .sort((a, b) => (b.day + b.date + b.addedAt).localeCompare(a.day + a.date + a.addedAt));
     if (db.updatedAt) {
       const u = new Date(db.updatedAt);
       $("updated").textContent = `更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
@@ -120,6 +127,20 @@ async function load() {
     if (state.version === null) $("status").textContent = "ニュースを読み込めませんでした。";
   }
 }
+
+let touch = null;
+const main = document.querySelector("main");
+main.addEventListener("touchstart", (e) => {
+  touch = e.touches.length === 1 ? { x: e.touches[0].clientX, y: e.touches[0].clientY } : null;
+}, { passive: true });
+main.addEventListener("touchend", (e) => {
+  if (!touch) return;
+  const dx = e.changedTouches[0].clientX - touch.x, dy = e.changedTouches[0].clientY - touch.y;
+  touch = null;
+  if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+  const i = TABS.findIndex(([k]) => k === state.tab) + (dx < 0 ? 1 : -1);
+  if (i >= 0 && i < TABS.length) switchTab(TABS[i][0]);
+}, { passive: true });
 
 $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });

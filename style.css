@@ -84,3 +84,5 @@ h2.day::after { content: ""; flex: 1; height: 1px; background: var(--line); }
   background: var(--card); color: var(--accent); font-size: 14px; font-family: inherit; cursor: pointer;
 }
 .more:hover { background: var(--card-hover); border-color: #30343f; }
+
+main { min-height: 70vh; }
