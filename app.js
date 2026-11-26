@@ -1,12 +1,13 @@
 const CATS = { ai: "AI", world: "世界", tech: "テック・サイエンス", economy: "経済" };
 const TABS = [["all", "すべて"], ...Object.entries(CATS), ["later", "★ あとで読む"]];
 const LATER_KEY = "mynews.later";
+const PAGE_DAYS = 7;
 
 function readLater() {
   try { return new Set(JSON.parse(localStorage.getItem(LATER_KEY) || "[]")); } catch { return new Set(); }
 }
 
-const state = { items: [], tab: "all", q: "", later: readLater(), scroll: {}, version: null };
+const state = { items: [], tab: "all", q: "", later: readLater(), scroll: {}, version: null, days: PAGE_DAYS };
 const $ = (id) => document.getElementById(id);
 
 function saveLater() {
@@ -68,14 +69,32 @@ function card(it) {
       btn));
 }
 
+function cutoffDate() {
+  if (!state.items.length) return "";
+  const d = new Date(state.items[0].date + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() - (state.days - 1));
+  return d.toISOString().slice(0, 10);
+}
+
 function render() {
   renderTabs();
-  const shown = state.items.filter(matches);
+  let shown = state.items.filter(matches);
+  let hidden = 0;
+  if (!state.q && state.tab !== "later") {
+    const cut = cutoffDate();
+    const recent = shown.filter((it) => it.date >= cut);
+    hidden = shown.length - recent.length;
+    shown = recent;
+  }
   const list = [];
   let day = null;
   for (const it of shown) {
     if (it.date !== day) { day = it.date; list.push(el("h2", { class: "day" }, fmtDay(day))); }
     list.push(card(it));
+  }
+  if (hidden) {
+    list.push(el("button", { class: "more", onclick: () => { state.days += PAGE_DAYS; render(); } },
+      `もっと見る（さらに${PAGE_DAYS}日分）`));
   }
   $("list").replaceChildren(...list);
   $("status").textContent = shown.length ? "" : (state.tab === "later" ? "「あとで読む」の印はまだありません。" : "該当するニュースはありません。");
@@ -94,8 +113,9 @@ async function load() {
       const u = new Date(db.updatedAt);
       $("updated").textContent = `更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
     }
+    if (!first) { state.scroll = {}; state.days = PAGE_DAYS; }
     render();
-    if (!first) { state.scroll = {}; window.scrollTo(0, 0); }
+    if (!first) window.scrollTo(0, 0);
   } catch (e) {
     if (state.version === null) $("status").textContent = "ニュースを読み込めませんでした。";
   }
