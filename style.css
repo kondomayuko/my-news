@@ -79,3 +79,8 @@ h2.day::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 .later:hover { color: var(--text); border-color: #3a3e4a; }
 .later[aria-pressed="true"] { color: var(--star); border-color: rgba(255, 200, 87, .5); background: rgba(255, 200, 87, .08); font-weight: 600; }
 #status:empty { display: none; }
+.more {
+  display: block; width: 100%; margin: 8px 0 24px; padding: 12px; border: 1px solid var(--line); border-radius: 12px;
+  background: var(--card); color: var(--accent); font-size: 14px; font-family: inherit; cursor: pointer;
+}
+.more:hover { background: var(--card-hover); border-color: #30343f; }

@@ -28,7 +28,7 @@ def validate(item):
         raise ValueError(f"missing {missing}: {item.get('title')}")
     if item["category"] not in CATEGORIES:
         raise ValueError(f"bad category {item['category']}: {item['title']}")
-    datetime.strptime(item["date"], "%Y-%m-%d")
+    item["date"] = datetime.strptime(item["date"], "%Y-%m-%d").strftime("%Y-%m-%d")
     if not item["url"].startswith(("http://", "https://")):
         raise ValueError(f"bad url: {item['url']}")
 
