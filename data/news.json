@@ -1,6 +1,266 @@
 {
- "updatedAt": "2026-11-26T08:15:11+00:00",
+ "updatedAt": "2026-11-27T03:09:42+00:00",
  "items": [
+  {
+   "id": "6f99f08b0c5d",
+   "date": "2026-11-27",
+   "category": "ai",
+   "title": "政府、AI法改正案の概要　事業者に安全確保義務と立ち入り検査",
+   "summary": "政府は高性能AIの悪用拡大を受け、AI法の改正案の概要をまとめた。国内に一定規模の利用者を持つ事業者を指定し、サイバー攻撃手法や危険物製造に関する回答の遮断などの安全措置を義務づけ、対策が不十分な場合は立ち入り検査や命令違反への罰則も設ける。OpenAIやAnthropicなど海外の開発企業も対象になる見通し。",
+   "source": "Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-firms-with-poor-safeguards-face-inspections-under-japan-draft-law",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "fdcea5a0f6a3",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "関文科相への問責決議案、参院で124対120の僅差で否決",
+   "summary": "政治資金パーティーに利害関係のある省庁職員を同席させた問題で、野党8党・会派が提出した関文部科学相への問責決議案は、参院本会議で賛成120、反対124で否決された。高市首相は関氏を続投させる方針。与党は審議拒否の理由がなくなったとして、最重要法案の消費税減税・支援金法案の審議再開を野党に求める。",
+   "source": "読売新聞",
+   "url": "https://www.yomiuri.co.jp/politics/20261127-GYT1T00096/",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "41a1b984546c",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "ニュージーランド総選挙の最終結果、与野党とも過半数に届かず",
+   "summary": "11月7日に行われたニュージーランド総選挙は、在外投票など約40万票の特別票を集計した最終結果で、ラクソン首相の右派与党連合も左派野党連合も過半数を確保できなかった。新興の中道政党が政権の行方を左右する立場となり、長く難しい連立交渉が予想される。",
+   "source": "AP",
+   "url": "https://apnews.com/article/new-zealand-election-results-a19a838d8256a0762703ff0572aca3e6",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "69cbf6c5131f",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "東京都区部の11月コアCPIは2.9%上昇に加速　日銀12月利上げ観測強まる",
+   "summary": "東京都区部の11月の消費者物価指数（生鮮食品除く）は前年比2.9%上昇し、10月の2.6%から伸びが加速して3カ月連続で日銀の目標2%を上回った。市場予想の3.0%はやや下回り、生鮮食品とエネルギーを除く指数は2.5%と前月から鈍化した。全国の先行指標とされ、12月18日までの日銀会合での利上げ判断材料となる。",
+   "source": "Reuters",
+   "url": "https://www.investing.com/news/economic-indicators/core-inflation-in-japans-capital-accelerates-in-november-5052767",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "5d28a5ddaa27",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "中国の10月工業利益は20.1%増、AI需要で電子機器が倍増",
+   "summary": "中国国家統計局によると、10月の工業企業利益は前年比20.1%増と5月以来の高い伸びとなり、1〜10月累計も16.0%増に加速した。AI向け計算需要でメモリー関連が好調な電子機器メーカーの利益は1〜10月に倍増し、ハイテク製造業は50.9%増だった。一方で消費関連との差は大きく、改善の広がりは限られているとの見方もある。",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "fe3f589ca28b",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "NVIDIA、東南アジア4カ国へのAIサーバー出荷を停止　米新輸出規制で",
+   "summary": "英FTによると、NVIDIAはDellやSupermicroなどの製造パートナーに対し、同社チップを搭載したサーバーのマレーシア、シンガポール、タイ、インドネシアへの出荷を止めるよう指示した。先週発効した米国の新規制で、これらの国への先端チップ輸出に許可が必要になったことを受けた措置。中国企業による迂回調達ルートを断つ狙いがあり、東南アジアのデータセンター投資に影響が出る可能性がある。",
+   "source": "Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "c8dc8b252f04",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "スイス、AIエージェントによる重要インフラへのサイバー攻撃を初確認",
+   "summary": "スイス連邦サイバーセキュリティ庁は、AIエージェントを使ったサイバー攻撃を5件確認し、うち3件が重要インフラを狙い、2件は侵入に成功したと明らかにした。大きな障害は出ておらず、攻撃者は特定されていない。AIが脆弱性探索から攻撃手法の切り替えまで自律的に行うため、同庁は脅威環境の転換点だと警告している。",
+   "source": "SWI swissinfo.ch",
+   "url": "https://www.swissinfo.ch/eng/swiss-ai/switzerland-reports-first-ai-based-cyberattacks-on-critical-infrastructure/92440400",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "3ea24f58c81c",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "Apple、MiniMaxのAIコンパニオンアプリ「Talkie」をApp Storeから削除",
+   "summary": "Appleは中国MiniMaxのAIチャットアプリ「Talkie」を、性的コンテンツを理由にApp Storeから削除した。英調査報道機関TBIJは、未成年が性的・虐待的な会話にさらされていたと報じていた。Talkieは同社の主要な収益源の一つで、AIコンパニオンアプリの子ども保護をめぐる規制圧力が一段と強まりそうだ。",
+   "source": "AppleInsider",
+   "url": "https://appleinsider.com/articles/26/11/26/ai-chatbot-companion-app-talkie-pulled-from-apple-app-store-after-investigation",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "de90deac59de",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "OpenAI、GPT-6.2の利用量計算ミスを修正　有料ユーザーの上限到達が早まる",
+   "summary": "OpenAIは、11月17日に投入したGPT-6.2 AstraとSolの利用量を多くのユーザーで過小に計上していたと認めた。修正後はAstraで前週より40%、Solで25%早く利用上限に達する。遡って課金はせず、Go・Plus・Pro・Businessの利用者に好きな時に使える1回分の「Banked Reset」を付与する。",
+   "source": "heise online",
+   "url": "https://www.heise.de/en/news/OpenAI-corrects-billing-error-GPT-6-2-limits-arrive-sooner-11539518.html",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "3fb090c5c74b",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "ロシアSber、7080億パラメータの「GigaChat 4」をオープンウェイトで公開",
+   "summary": "ロシア最大手銀行Sberは、総パラメータ7080億（稼働410億）の混合エキスパート型モデル「GigaChat 4」を公開し、重みをHugging Faceで配布した。標準で100万トークンの文脈長を持ち、Terminal-Bench 2.0では推論モードで71.26%と前世代の30.30%から大きく向上した。制裁下のロシアでも大規模なオープンモデル開発が進んでいることを示す。",
+   "source": "GigaChat (Sber)",
+   "url": "https://giga.chat/blog/en/posts/gigachat-4-tech-report",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "40603fc3c1ac",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "英FCA、MetaがAIエージェント「Muse」の共同テストを拒否したと批判",
+   "summary": "英金融行動監視機構（FCA）の担当者は、Metaが英国でのMuse提供開始前に規制サンドボックスでの共同テストを打診されたが断ったと明らかにした。FCAは、自律的に動くエージェントが小売店での決済などで消費者の利益に反する行動をとらないかを懸念している。英国の競争・データ当局もMetaに消費者保護法の順守を求めている。",
+   "source": "WIRED",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "0ed1a6975c98",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "Anthropicのアモデイ CEO、「人類の自由意志をAIに委ねるべき」との見方を否定",
+   "summary": "Anthropicのダリオ・アモデイCEOは、同社幹部が超知能AIに意思決定の一部を「明け渡す」べきだと考えているとしたAxiosの報道を受け、Xで「ばかげた主張だ」と否定した。効率や安全のために正統性や自己決定を犠牲にすべきではないと強調した。Metaなど競合の幹部も人間の主体性を守る重要性を訴えており、AI時代の人間の自律をめぐる論争が広がっている。",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/26/anthropic-chief-denies-wanting-humans-to-surrender-free-will-to-ai",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "b62f454837da",
+   "date": "2026-11-26",
+   "category": "ai",
+   "title": "米国防総省、NVIDIAへの国防生産法発動検討の報道を否定",
+   "summary": "ワシントン・ポストは、ヘグセス国防長官らがジェンスン・フアン氏のNVIDIA CEO復帰をめぐり、国防生産法を同社取締役会への圧力に使うことを議論したと報じた。国防総省はそうした議論は「なかった」と否定している。同法は企業に国防需要の優先を命じられるもので、AI半導体と国家安全保障の結びつきの強さを浮き彫りにした。",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "2f86d7b4a724",
+   "date": "2026-11-26",
+   "category": "world",
+   "title": "ゼレンスキー氏、ロシアが電力網への大規模攻撃を準備と警告",
+   "summary": "ウクライナのゼレンスキー大統領は、ロシアがエネルギー施設や物流、重要サービスへの新たな大規模攻撃を準備していると警告した。26日にもハルキウなどへの弾道ミサイルとドローン攻撃で死傷者が出た。冬を前に電力インフラが再び狙われる懸念が強まる一方、米特使クシュナー氏はプーチン氏の姿勢について発言しており、和平協議の行方も注目される。",
+   "source": "AP",
+   "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "33a69709df2e",
+   "date": "2026-11-26",
+   "category": "world",
+   "title": "クウェートでイランのドローン攻撃、イタリア人2人が死亡",
+   "summary": "クウェート国防省は、イランのドローンが国内の「重要施設」を攻撃し、負傷したイタリア人2人が死亡したと発表した。クウェート人とパキスタン人も各1人が負傷した。イランは関与を否定しているが、米国とイランの協議が停滞する中、湾岸諸国に駐在する外国人にも被害が広がっている。",
+   "source": "ABC News",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "b1bf60ddef7b",
+   "date": "2026-11-26",
+   "category": "world",
+   "title": "EU首脳会議、1.6兆ユーロの次期予算とウクライナ支援で調整",
+   "summary": "EU首脳はブリュッセルで、2028〜34年の約1.6兆ユーロ規模の中期予算案とウクライナへの資金支援を協議し、12月の合意を目指した。仏大統領選で極右のルペン氏が勝てばウクライナ支援を打ち切る可能性があるため、5月までに法的拘束力のある合意を固めたい考えだ。来年は伊・ポーランドなど各国で選挙が続き、交渉は難航も予想される。",
+   "source": "Reuters",
+   "url": "https://www.investing.com/news/commodities-news/leaders-wrestle-over-eus-budget-ukraine-financing-as-le-pen-focuses-minds-5052559",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "79b96f10759e",
+   "date": "2026-11-26",
+   "category": "tech",
+   "title": "TSMC、テキサス州に226億ドルの新工場を申請　2031年に2nm級生産",
+   "summary": "TSMCはテキサス州ブラゾス郡で、総額226億ドルの新工場キャンパスの建設に向け州の優遇制度を申請した。140億ドルの製造装置や工場内のマスク工場を計画し、2031年までに2nm級チップの生産を見込む。既存のアリゾナ拠点に続く米国での大型投資で、先端半導体の米国内生産が一段と広がる。",
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "36a555bb94c8",
+   "date": "2026-11-26",
+   "category": "tech",
+   "title": "キオクシアとNVIDIA、SSDでGPUメモリーをペタバイト級に拡張する技術を実証",
+   "summary": "キオクシアはNVIDIAと協業し、同社のSSDとNVIDIAのソフトウエア「SCADA」を組み合わせて、GPUが使える実効メモリーを1PB超に拡張できることを示した。SSD144台を積んだGB200 NVL72で2兆ベクトルのデータベース処理を実証した。高価で不足しがちなHBMを補う手段として注目され、発表後にキオクシア株は一時14%超上昇した。",
+   "source": "KIOXIA",
+   "url": "https://www.kioxia.com/en-jp/business/news/2026/20261126-1.html",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "9392f54bcada",
+   "date": "2026-11-26",
+   "category": "tech",
+   "title": "加齢した卵子の染色体異常を減らす人工「接着」システム、Scienceに発表",
+   "summary": "独マックス・プランク研究所などのチームは、加齢で弱まる染色体同士の結合を補う人工的なコヒージョン（接着）システムを開発した。高齢マウスの卵子では染色分体の早期分離を若い卵子と同じ水準まで減らし、ヒト卵子の染色体にも応用できることを示した。35歳以降の不妊の主因である卵子の染色体数異常の改善につながり、将来の体外受精の成績向上が期待される。",
+   "source": "Science",
+   "url": "https://www.science.org/doi/10.1126/science.aei5852",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "3fbff6d15b7b",
+   "date": "2026-11-26",
+   "category": "tech",
+   "title": "光ファイバーで小さな地震の破壊過程をミリ秒単位で可視化",
+   "summary": "研究チームは米カリフォルニア州の未使用光ファイバー網を高密度の地震計として使い、マグニチュード2の地震の断層破壊を詳細に捉えた。破壊はいったん止まった後、42ミリ秒後に150m離れた地点で再び始まっていた。小さな地震も単純な円形の破壊ではなく複雑に進むことを示し、地震の発生メカニズムの理解を進める成果となる。",
+   "source": "Science",
+   "url": "https://www.science.org/doi/10.1126/science.aei0507",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "58c5e066c550",
+   "date": "2026-11-26",
+   "category": "tech",
+   "title": "ボルボ、ベルギー工場で人型ロボットを訓練　2027年に試験導入へ",
+   "summary": "ボルボ・カーズは、スウェーデンのHexagon製人型ロボット「AEON」をベルギー・ヘント工場に導入し、実際の製造作業で訓練と検証を始めた。人の動作をまねる模倣学習で、まず部品を治具に精密に置く作業を習得させる。2027年の工場パイロットを目指しており、自動車製造での人型ロボット活用の動きが広がっている。",
+   "source": "Volvo Cars",
+   "url": "https://www.volvocars.com/intl/media/press-releases/CC9EB8A9723DD536/",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "7da7b8f8107c",
+   "date": "2026-11-26",
+   "category": "tech",
+   "title": "FIFA、サイバー攻撃で内部の個人・業務情報が盗まれたと確認",
+   "summary": "国際サッカー連盟（FIFA）は、犯罪集団によるサイバー攻撃を受け、限られた範囲の個人情報と業務情報に不正アクセスされたと発表した。システムの欠陥ではなく、職員になりすました手口だったとされる。FIFAは捜査当局と連携して調査を進めている。",
+   "source": "BBC",
+   "url": "https://www.bbc.com/sport/football/articles/crd61nvg4d84o",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "81137baaadb5",
+   "date": "2026-11-26",
+   "category": "economy",
+   "title": "次期ECB総裁にスペイン中銀前総裁のデコス氏を選出",
+   "summary": "ユーロ圏首脳は、ラガルド総裁の後任として前スペイン銀行総裁パブロ・エルナンデス・デコス氏を欧州中央銀行（ECB）総裁に選んだ。ラガルド氏は2月7日に前倒しで退任し、デコス氏は3月18日に初の金融政策会合を主宰する。イラン戦争によるインフレや欧州の高い債務・借入コストへの対応が課題となる。",
+   "source": "AP",
+   "url": "https://apnews.com/article/ecb-eurozone-pablo-hernandez-de-cos-lagarde-d308b6cfbe6399b131255f2a678b10e4",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "cd7da223ba55",
+   "date": "2026-11-26",
+   "category": "economy",
+   "title": "アルゼンチン議会、中銀による政府向け通貨発行を禁止",
+   "summary": "アルゼンチン下院は、中央銀行が政府の支出を賄うために紙幣を刷ることを禁じる中銀法改正を賛成141、反対0（棄権99）で最終可決した。中銀の第一の使命はペソの価値維持と定められた。2023年に200%を超えたインフレを抑えてきたミレイ大統領の政策の柱を法律で固定する形となる。",
+   "source": "AP",
+   "url": "https://apnews.com/article/javier-milei-central-bank-economy-argentina-peso-primaries-paso-e4598186ef6cbcf05ecc598788c52cec",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "38f99722394b",
+   "date": "2026-11-26",
+   "category": "economy",
+   "title": "ソフトバンクGのCDSが4年ぶり高水準、AI投資の回収に懸念",
+   "summary": "ソフトバンクグループの5年物クレジット・デフォルト・スワップ（CDS）のスプレッドは2日連続で拡大し、20bp超上昇して534.6bpと4年ぶりの高水準になった。OpenAIへの出資などAI投資が債務返済に間に合う速さで利益を生むかに市場の疑念が強まっている。同社はAI投資の先行指標とみなされており、AI関連の資金調達環境にも影響し得る。",
+   "source": "Reuters",
+   "url": "https://www.streetinsider.com/Reuters/Investors+see+rising+risk+of+SoftBank+default+as+pressure+grows+on+AI+bets/27404305.html",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "0b6e4500df56",
+   "date": "2026-11-26",
+   "category": "economy",
+   "title": "米7-9月期GDPを4.3%増に上方修正、トランプ氏は「誤り」と調査要求",
+   "summary": "米商務省は7-9月期の実質GDP成長率を年率3.4%から4.3%へ大幅に上方修正した。トランプ大統領は「記録的な誤り」だとして調査を求め、速報値が民主党が大勝した中間選挙に影響したと主張した。改定は事前に予定された通常の手続きで、統計機関の独立性への政治的圧力が懸念されている。",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
   {
    "id": "2b77323b17a5",
    "date": "2026-11-26",
@@ -90,6 +350,66 @@
    "source": "BBC",
    "url": "https://www.bbc.com/news/articles/ckdd1zp3m1p3o",
    "addedAt": "2026-11-26T08:15:11+00:00"
+  },
+  {
+   "id": "fc1fe5cb80de",
+   "date": "2026-11-25",
+   "category": "ai",
+   "title": "Microsoft、国家系ハッカーが使うAIエージェント攻撃基盤「ARTEX」を詳報",
+   "summary": "Microsoftは、中国や北朝鮮の国家支援グループが悪用しているエージェント型AIのペネトレーションテスト基盤「ARTEX」の手口を公表した。偵察、認証情報への攻撃、Web脆弱性の悪用、サプライチェーン侵害までをAIが自律的に進めるという。中国のSalt Typhoonによる利用も指摘され、防御側の対応時間が大きく縮まっていることを示す報告となった。",
+   "source": "Microsoft Security Blog",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "f03e85618f7a",
+   "date": "2026-11-25",
+   "category": "ai",
+   "title": "独消費者団体、ChatGPTの解約手続きと値上げ条項でOpenAIを提訴",
+   "summary": "ドイツのブランデンブルク州消費者センターは、ChatGPT有料プランの解約が分かりにくいことや、「必要に応じて」料金を引き上げられるとする規約条項が違法だとして、OpenAIのアイルランド法人を提訴した。欧州の消費者保護法が生成AIサービスの契約条件にも本格的に適用されるかが焦点となる。",
+   "source": "Verbraucherzentrale Brandenburg",
+   "url": "https://www.verbraucherzentrale-brandenburg.de/pressemitteilungen/verbraucherzentrale-brandenburg-verklagt-chatgptanbieter-openai-127517",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "9effb8208108",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "南極点望遠鏡、遠方宇宙の物質分布をこれまでで最も鮮明に描いた地図を公開",
+   "summary": "米シカゴ大学などが率いる南極点望遠鏡（SPT）の国際チームは、宇宙マイクロ波背景放射が途中の物質の重力で曲げられる効果を測定し、遠方宇宙の質量分布の最も精細な地図を作成した。約1500平方度の空を観測したデータに基づく。宇宙の構造形成をめぐる未解決の問題の検証に役立つと期待される。",
+   "source": "Phys.org (Argonne National Laboratory)",
+   "url": "https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "16dfb72df17e",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "反物質の陽電子1個を絶対零度近くで長期間捕獲、量子状態の制御に成功",
+   "summary": "米ノースウェスタン大学の物理学者らは、電子の反粒子である陽電子1個を壁のないトラップに閉じ込め、絶対零度近くまで冷却して数カ月保持することに成功した。マイクロ波で量子状態を意図的に遷移させることもできた。今後は陽電子の磁気モーメントを精密測定して電子と比べ、物質と反物質の非対称性や標準模型のほころびを探る。",
+   "source": "ScienceDaily (Northwestern University)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "30e1a4e2eed2",
+   "date": "2026-11-25",
+   "category": "tech",
+   "title": "中国南部の10万年前の歯、未知の古代人類系統の可能性　Natureに発表",
+   "summary": "中国・広西チワン族自治区の2つの洞窟で見つかった約10万年前の歯4本を分析したところ、一方の洞窟の歯はデニソワ人に似ていたが、もう一方の歯は形状とエナメル質のたんぱく質が既知の集団と異なっていた。研究者は未解明の古代ホモ属の系統に属する可能性があるとしている。アジアにおける人類進化の系統図を書き換える可能性がある。",
+   "source": "Live Science",
+   "url": "https://www.livescience.com/archaeology/human-evolution/scientists-may-have-discovered-new-branch-on-the-human-family-tree-100-000-year-old-tooth-in-china-suggests",
+   "addedAt": "2026-11-27T03:09:42+00:00"
+  },
+  {
+   "id": "592a3ead8c8e",
+   "date": "2026-11-25",
+   "category": "economy",
+   "title": "S&P、NVIDIAの格付けを「クレジットウオッチ・ネガティブ」に",
+   "summary": "S&Pグローバル・レーティングは、NVIDIAの信用格付けを格下げ方向で見直す「クレジットウオッチ・ネガティブ」に指定した。ジェンスン・フアンCEOの退任と復帰を経ても、経営陣の行動規範に対する取締役会の監督について疑問が解消されていないと説明した。AI相場をけん引する同社のガバナンスに市場の視線が集まっている。",
+   "source": "Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/sp-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks-5051352",
+   "addedAt": "2026-11-27T03:09:42+00:00"
   },
   {
    "id": "9e640d54cb60",
