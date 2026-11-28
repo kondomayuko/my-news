@@ -1,6 +1,256 @@
 {
- "updatedAt": "2026-11-27T03:09:42+00:00",
+ "updatedAt": "2026-11-28T03:10:25+00:00",
  "items": [
+  {
+   "id": "f08fae680b90",
+   "date": "2026-11-28",
+   "category": "world",
+   "title": "レバノン、年末で任務終了のUNIFILに活動継続を提案",
+   "summary": "レバノンのアウン大統領は、国連レバノン暫定軍UNIFILが2027年の撤収中も任務を続け、後継部隊の調整時間を確保する案を示した。サラーム首相によると、フランスは地雷除去や人道支援車列の護衛などの継続を認める安保理決議案を準備している。現在の任務は12月31日に終了する予定で、イスラエル軍が南部に残るなかで治安の空白を避けられるかが焦点になる。",
+   "source": "Arab News",
+   "url": "https://www.arabnews.jp/en/middle-east/lebanon-proposes-extending-unifil-operations-to-allow-time-for-replacement-force-3001653",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "ce6cf5093238",
+   "date": "2026-11-27",
+   "category": "ai",
+   "title": "OpenAI、営業秘密の窃取と供給業者への圧力を主張しAppleを反訴",
+   "summary": "OpenAIは米連邦地裁でAppleを反訴し、Appleに復帰した元社員を通じて新端末の設計や将来の製品計画が流出したと主張した。Appleが供給業者にOpenAI製品の開発に協力しないよう圧力をかけたとも訴えており、AI端末をめぐる競争が法廷でも激しくなっている。Appleは両方の疑惑を否定した。",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/technology/openai-countersues-apple-stealing-trade-secrets-ft-reports-2026-11-27/",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "bce38f1df8a2",
+   "date": "2026-11-27",
+   "category": "ai",
+   "title": "ポーランド、Palantirと5年間で約3億ドルの軍向けAI契約",
+   "summary": "ポーランドは、軍の指揮官の意思決定を支援するAIソフトウェアの導入でPalantirと契約した。契約額は5年間で約3億ドルで、国防相は鍵・サーバー・情報をポーランド軍の専有財産として維持すると説明した。欧州で米国製防衛技術への依存が議論されるなか、軍事AIの実装と情報主権の両立が問われる。",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/technology/poland-signs-contract-with-palantir-worth-300-mln-over-5-years-2026-11-27/",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "7c0bb259ee77",
+   "date": "2026-11-27",
+   "category": "ai",
+   "title": "Ant傘下Robbyant、空間を記憶して移動するロボットAIを公開",
+   "summary": "Ant Group傘下のRobbyantは、3次元地図を逐次作成するLingBot-Map 2.0と、空間の記憶を次の作業にも引き継ぐLingBot-Naviをオープンソースで公開した。同社の5.2kmの走行試験では、地図作成の平均軌跡誤差が従来の31.12mから4.72mへ約85%減った。毎回同じ場所を探索し直す負担を減らし、配送や倉庫などでの自律移動の効率化を狙う。",
+   "source": "Ant Group（Business Wire）",
+   "url": "https://www.businesswire.com/news/home/20261126690702/en/Robbyant-Open-Sources-LingBot-Map-2.0-and-LingBot-Navi-Enabling-Long-Term-Spatial-Memory-and-Autonomous-Navigation-for-Robots",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "658f2381b977",
+   "date": "2026-11-27",
+   "category": "ai",
+   "title": "Sber、リアルタイム音声認識GigaAM-v4と21言語対応モデルを公開",
+   "summary": "Sberはロシア語・英語の音声認識モデルGigaAM-v4と、21言語を扱うGigaAM Multilingual-v2を発表した。音響エンコーダーを刷新し、160・320・640ミリ秒単位で音声を処理するストリーミング認識に対応した。句読点や数字の整形も行え、多言語の文字起こしや音声インターフェースの構築を後押しする。",
+   "source": "Sber",
+   "url": "https://giga.chat/blog/posts/giga-am-v4",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "cdc50e280b9a",
+   "date": "2026-11-27",
+   "category": "ai",
+   "title": "AI推論サービス経由でプロンプト流出、保存禁止指定でも第三者がアクセス",
+   "summary": "heiseは、Dragosの研究者が約200万件の検証用リクエストを送った調査を詳報し、複数のAI推論提供業者からプロンプト内の情報が流出したと伝えた。被害が確認された3業者のうち2業者では、データを保存しないゼロデータ保持の指定付きリクエストも取得されていた。OpenRouterは3業者を除外し、予防措置を含め125の接続先からゼロデータ保持の表示を外した。AIモデルに至る仲介業者の連鎖にも、機密情報の管理を確認する必要があることを示している。",
+   "source": "heise online",
+   "url": "https://www.heise.de/en/news/AI-supply-chain-Low-cost-inference-services-steal-secrets-11541172.html",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "8478569b1e01",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "EU予算交渉が決裂、ウクライナ向け450億ユーロ融資も持ち越し",
+   "summary": "EU首脳は2028〜34年の長期予算をめぐり約12時間協議したが合意できず、12月17〜18日の首脳会議で再協議することになった。約1.58兆ユーロの予算規模に加え、ウクライナ向け450億ユーロの追加融資でも加盟国の意見が割れた。ドイツは融資への全加盟国の賛同を予算承認の条件としており、ウクライナの資金確保にも不透明感が残る。",
+   "source": "BBC",
+   "url": "https://www.bbc.com/news/articles/cw4gnm3m9deno",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "cc423412a617",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "米軍、イラン出港の商船を攻撃し航行不能に　イランは封鎖突破を表明",
+   "summary": "米中央軍は、イランのバンダルアッバスを出港し海上封鎖を突破しようとしたパラオ船籍の商船を、オマーン湾で攻撃したと発表した。26日の攻撃で推進機能を停止させた一方、民間の乗組員に被害はなかったとしている。イラン側は米国の封鎖を破ると表明し、ホルムズ海峡を閉鎖し続ける姿勢も示しており、海上輸送をめぐる対立が続く。",
+   "source": "Reuters（Investing.com）",
+   "url": "https://www.investing.com/news/commodities-news/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade-5053767",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "c261a0f6f96b",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "ニジェールの国家警備隊拠点に襲撃、兵士13人死亡　ISが犯行声明",
+   "summary": "ニジェール国防省は、南西部サナムの国家警備隊拠点が26日に襲われ、兵士13人が死亡し20人が負傷したと発表した。過激派組織「イスラム国」が27日に犯行を認めた。サヘル地域で武装勢力による攻撃が続くなか、同国では相次ぐ損失が軍内部の緊張も高めている。",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/world/africa/suspected-militants-kill-13-soldiers-southwest-niger-ministry-says-2026-11-27/",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "822a8fb313c0",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "米東海岸の暴風雨で洪水と大規模停電、感謝祭パレードは延期",
+   "summary": "米東海岸を襲った暴風雨で、ニューヨークからバージニアにかけて水難救助が行われ、倒木や送電線の損傷が相次いだ。27日も数十万の利用者への電力復旧が続き、ニューヨークのメーシーズ感謝祭パレードは雨と強風で28日に延期された。ニュージャージーからバージニアには沿岸洪水警報が出され、連休の交通と生活への影響が続いた。",
+   "source": "AP（10TV）",
+   "url": "https://www.10tv.com/article/syndication/associatedpress/ap-news-in-brief-at-1204-am-est/616-f3f404ed-a3ec-4873-abd5-1fb1a00b9dff",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "fb141f3a007f",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "国連、飢餓悪化の重点地域が16に増加と警告　援助削減も打撃",
+   "summary": "FAOとWFPは、2026年12月から2027年5月にかけて飢餓が深刻化する恐れのある重点地域が、前回の13から16に増えたと発表した。スーダン、南スーダン、ソマリア、ナイジェリア北部、イエメンの危険性が特に高く、紛争に加えて物価高や異常気象が食料確保を難しくしている。最も危険な5カ国向けの援助は2022〜25年に約3分の2減り、飢饉の回避や実態把握にも支障が出ている。",
+   "source": "Reuters（CNBC Africa）",
+   "url": "https://www.cnbcafrica.com/2026/un-warns-famine-risks-rising-as-hunger-hotspots-increase",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "6a6143268261",
+   "date": "2026-11-27",
+   "category": "world",
+   "title": "ゼレンスキー氏、米国に対露圧力の強化を要求　ミサイル供与の遅れも批判",
+   "summary": "ゼレンスキー大統領は27日放送のBBCインタビューで、米国が和平交渉でロシアに十分な圧力をかけていないと批判した。弾道ミサイル迎撃用ミサイルの供与の遅れが人命を失わせていると訴え、トランプ大統領がプーチン大統領を友人と呼ぶことにも疑問を示した。12月に交渉再開が見込まれるなか、ウクライナと米国の立場の隔たりが表面化している。",
+   "source": "AP",
+   "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-trump-putin-d891149b4cbd6521b83096a32bd5e53d",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "b421009f8be6",
+   "date": "2026-11-27",
+   "category": "tech",
+   "title": "MIT、毒性で使えなかった薬を抗菌薬候補に変える送達技術を開発",
+   "summary": "MITの研究チームは、薬を感染部位へ運ぶたんぱく質と、血中で他の臓器への影響を抑えるたんぱく質を組み合わせる技術を発表した。毒性の強い抗がん剤カリケアマイシンを使ったマウス実験で、肝障害を抑えながら細菌性肺炎を治療できた。Nature Communications掲載の成果で、安全性の問題で開発を断念していた化合物を新たな抗菌薬候補として活用できる可能性がある。",
+   "source": "MIT News",
+   "url": "https://news.mit.edu/2026/engineering-antibiotics-could-expand-new-drug-candidates-pool-1127",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "3d9a7eac4972",
+   "date": "2026-11-27",
+   "category": "tech",
+   "title": "16量子ビットの実験系で「パラ粒子」の振る舞いを観測",
+   "summary": "MITの研究者らは、超伝導回路による16量子ビットの量子シミュレーターで、ボース粒子やフェルミ粒子とは異なる統計に従うパラ粒子の振る舞いを実現した。粒子を交換する、衝突させる、同じ場所に集めるという3種類の試験で、理論が予測する性質を確認した。長く理論上の可能性と考えられてきた粒子の集団的な振る舞いを、制御可能な量子系で調べる道が開ける。",
+   "source": "New Scientist",
+   "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "8c87d0cafd31",
+   "date": "2026-11-27",
+   "category": "tech",
+   "title": "金沢大など、酸素量が太陽の約240分の1の初期銀河を観測",
+   "summary": "金沢大学などの国際研究チームは、ジェームズ・ウェッブ宇宙望遠鏡と重力レンズを利用し、ビッグバンから約8億年後の小さな銀河LAP1-Bを詳しく観測した。酸素の存在量は太陽の約240分の1で、これまでに知られる星形成銀河の中でも極めて原始的な化学組成を持つという。最初期の星が元素を宇宙に広げた過程や、天の川近傍の古い矮小銀河の起源を調べる手がかりになる。",
+   "source": "金沢大学（ScienceDaily）",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126063322.htm",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "42707007da2a",
+   "date": "2026-11-27",
+   "category": "tech",
+   "title": "超音波で発電し、光で状態を確認できる生分解性の体内機器を開発",
+   "summary": "香港理工大学と韓国・延世大学の研究チームは、超音波のエネルギーで発電する電池不要の生体吸収性インプラントを開発した。生分解性高分子に発光性のイリジウム錯体を組み込み、皮膚の外から光を当てると輪郭が光り、機器の損傷や分解の進み具合を確認できる。Nature Nanotechnology掲載の研究で、術後の一時的なセンサーや薬物送達、神経刺激装置への応用を目指す。",
+   "source": "香港理工大学（Phys.org）",
+   "url": "https://phys.org/news/2026-11-battery-free-implant-harvests-ultrasound.html",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "6121335bd5a3",
+   "date": "2026-11-27",
+   "category": "tech",
+   "title": "NASA、ISS向け次期補給便で新型栽培装置と脳組織モデルの実験へ",
+   "summary": "NASAは、Northrop Grummanの第25回補給ミッションで、新型の宇宙作物栽培装置などを国際宇宙ステーションへ送る計画を発表した。微小重力下での給水や栽培空間の効率化を検証し、月や火星での長期滞在に必要な食料生産技術につなげる。小さなヒト脳組織モデルに栄養液を供給する装置も試験し、宇宙飛行が神経組織に及ぼす影響を長期間調べる基盤を整える。",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "618c078ddc58",
+   "date": "2026-11-27",
+   "category": "tech",
+   "title": "米空軍のクラウド基盤Cloud Oneに不正侵入、改修や移行作業にも影響",
+   "summary": "ロイターは関係者の話として、米空軍の大規模クラウド基盤Cloud Oneが侵入を受け、この1カ月ほどの改修作業中に発覚したと報じた。人事・給与、兵站、指揮統制など多数のシステムを支える基盤で、アプリの移行や更新に支障が出ているという。侵入者の正体や被害の全容、実際に情報が盗まれたかどうかは確認されておらず、軍のサイバー部隊が被害調査に加わったとされる。",
+   "source": "Reuters（CNBC）",
+   "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "5e81497543c8",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "日経平均が2.11%高の5万8711円、AI株の買い戻しで続伸",
+   "summary": "27日の東京市場で日経平均は2.11%上昇して5万8711円11銭で終え、TOPIXも1.73%高の3815.20となった。直近に大きく売られたAI関連株が買い戻され、ソシオネクストは12.56%、レーザーテックは9.98%上昇した。AI投資費用や半導体規制への懸念が続くなか、前週の急落からの回復が進んだ。",
+   "source": "Reuters（Arab News）",
+   "url": "https://www.arabnews.jp/en/business/japans-nikkei-extends-weekly-gain-as-investors-scoop-up-battered-ai-shares-3001642",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "c4df6cbf40c3",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "米国株はナスダック2.31%高、S&P500は週間で5.6%上昇",
+   "summary": "感謝祭翌日の米国市場で、S&P500は1.60%高の7297.49、ナスダックは2.31%高の2万4129.50、ダウは1.18%高で終えた。売り込まれていたAI・半導体株に資金が戻り、半導体株指数は4.7%上昇した。S&P500は週間で5.6%高と2025年4月以来の大幅上昇になったが、AI投資の採算や金融引き締めへの警戒は残る。",
+   "source": "Reuters（Investing.com）",
+   "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "27187d185fe7",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "中国株が2年ぶりの大幅高、政府系投資家による相場支援を好感",
+   "summary": "中国の上海総合指数は3.7%、主要株で構成するCSI300は4.2%上昇し、ともに約2年ぶりの大幅高となった。国務院会議を受け、政府系投資会社の中央匯金が市場安定化の役割を強めるとの報道が買い材料になった。半導体株の指数は19%急騰し、内需低迷や不動産不況で弱っていた市場に政策支援への期待が広がった。",
+   "source": "Reuters（Yahoo Finance）",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "3d25b2fb19e3",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "ドイツ連邦議会、5560億ユーロの2027年予算案を可決",
+   "summary": "ドイツ連邦議会は、防衛やインフラへの支出を増やす5560億ユーロ規模の2027年予算案を可決した。関連する新規借り入れは約2100億ユーロに達し、第2次大戦後で2番目の大きさになる。鉄道などの基盤整備と軍備の立て直しを進める一方、欧州最大の経済で政府債務が大きく増える計画となる。",
+   "source": "DW",
+   "url": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "046b7da6ef50",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "ECBのナーゲル氏、インフレ長期化で12月にも追加利上げの可能性",
+   "summary": "ECB政策委員を務めるドイツ連邦銀行のナーゲル総裁は、2027年もユーロ圏のインフレ率が3%を上回る状態が続く可能性があると述べた。その場合は金融政策でさらに対応する必要があるとし、12月の会合にも言及した。追加利上げの可能性を示す発言で、企業や家計の資金調達環境にも影響する。",
+   "source": "Reuters（Investing.com）",
+   "url": "https://www.investing.com/news/economy-news/ecb-may-have-to-raise-rates-further-as-inflation-stays-above-3-5053495",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "351db58b6630",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "ブレント原油、週間で約3%高　中東の供給不安で3週続落に歯止め",
+   "summary": "北海ブレント原油は27日に1.2%安の1バレル95.44ドルとなったが、週間では約3%上昇し、11月初めての週間上昇を記録した。ホルムズ海峡のタンカーやサウジのエネルギー施設への攻撃が供給懸念を強めた。WTIは83.08ドルで終え、週末のOPECプラス会合では2027年1〜3月期の生産目標の扱いが注目される。",
+   "source": "Reuters（Investing.com）",
+   "url": "https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
+  {
+   "id": "ef947f4487b9",
+   "date": "2026-11-27",
+   "category": "economy",
+   "title": "インド商工相、米国との通商合意が最終段階に近づいたと表明",
+   "summary": "インドのゴヤル商工相は、米国との通商交渉が妥結に近づき、合意までの手順が形になりつつあると述べた。米通商代表は、合意すればインド製品への関税を17%に抑え、25%への引き上げを回避できるとの方針を示している。合意はまだ成立しておらず、輸出企業のコストや両国間の貿易見通しを左右する交渉が続く。",
+   "source": "Reuters（BNN Bloomberg）",
+   "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/27/india-us-trade-deal-is-nearing-completion-minister-says/",
+   "addedAt": "2026-11-28T03:10:25+00:00"
+  },
   {
    "id": "6f99f08b0c5d",
    "date": "2026-11-27",
